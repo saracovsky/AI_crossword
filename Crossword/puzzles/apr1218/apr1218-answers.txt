@@ -1,0 +1,13 @@
+----------------------------------------------------
+i	j	A/D		[clue, pattern]				answers
+----------------------------------------------------
+2	0	across	['Something in a Drafts folder', '?????']	['EMAIL']	
+4	0	across	['Struck with a bent leg', '?????']	['KNEED']	
+0	0	down	['Request to a waiter', '?????']	['CHECK']	
+0	1	down	['Citizen under Caesar', '?????']	['ROMAN']	
+0	3	down	['Back of a 45 record', '?????']	['BSIDE']	
+0	2	down	['In the loop', '?????']	['SLOOP', 'LOOPS', 'BLOOP', 'LASSO', 'AWARE', 'LOOPH', 'ALOOP', 'CLUED', 'CCING', 'ANSAE', 'AWASH', 'AWING', 'BCCED', 'DYING', 'FROOT', 'GAFFE', 'GLOOP', 'HELIX', 'JOHNB', 'LOOPY', 'NOOSE', 'OCHOS', 'PICOT', 'PURLS', 'RIATA', 'ROPED', 'SLING', 'TYPOS', 'VINES', 'YOYOS']	
+0	0	across	['Seafood with edible legs', '?????']	[]	
+1	0	across	['"Oh yeah, in what way?"', '?????']	[]	
+3	0	across	['___ B, rapper with the 2018 hit album "Invasion of Privacy"', '?????']	[]	
+0	4	down	['Like the pool balls from 1-8', '?????']	[]	

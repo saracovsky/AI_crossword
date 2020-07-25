@@ -1,0 +1,13 @@
+----------------------------------------------------
+i	j	A/D		[clue, pattern]				answers
+----------------------------------------------------
+1	0	across	['Click on an "I agree to the terms and conditions" box, say', '?????']	['AGREE']	
+3	0	across	['"What goes around comes around" principle', '?????']	['KARMA']	
+4	1	across	['Vulnerable thing for Achilles', '????']	['HEEL']	
+0	2	down	['Prolonged look', '?????']	['STARE']	
+1	4	down	['Comedian Brennan of "Chappelle\'s Show"', '????']	['NEAL']	
+0	3	down	['Blackjack request', '?????']	['HITME', 'AGAIN']	
+2	0	across	['___ &amp; Barrel (furniture store)', '?????']	['NAILS', 'OAKED', 'SOFAS', 'CRATE', 'ETHAN', 'IKEAS', 'KRESS', 'LAMPS', 'LEONS', 'NOBLE', 'STORE', 'TNTSL']	
+0	0	down	['High school athlete', '????']	['TEEN', 'ACNE', 'TRIG', 'PSAT', 'ECON', 'SOPH', 'SHOP', 'ZITS', 'HIST', 'BIOL', 'SADD', 'SATS', 'AARP', 'CLUB', 'NERD', 'GLEE', 'PROM', 'GYMS', 'PELE', 'ARMY', 'GENX', 'CALC', 'ANNE', 'ANNI', 'BLEU', 'BOLT', 'CHEM', 'DEAN', 'EDDS', 'EXAM', 'FAME', 'GEEK', 'GEOG', 'GEOM', 'HIGH', 'HOPS', 'INST', 'JOCK', 'LANA', 'MALL', 'MATH', 'MEET', 'MIRA', 'MOST', 'OBOE', 'ONIT', 'OVAL', 'PEER', 'PREP', 'PTAS', 'RAGS', 'REEL', 'ROMY', 'ROTC', 'RYNE', 'TERM', 'TEST', 'TEXT', 'TOSH', 'UNLV', 'YEAR', 'ZEKE']	
+0	0	across	['Engage in some good-natured banter', '????']	[]	
+0	1	down	['Media mogul who plays Mrs. Which in "A Wrinkle in Time"', '?????']	[]	

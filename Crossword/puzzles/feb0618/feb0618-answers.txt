@@ -1,0 +1,13 @@
+----------------------------------------------------
+i	j	A/D		[clue, pattern]				answers
+----------------------------------------------------
+0	1	across	['Breakfast, lunch or dinner', '????']	['MEAL']	
+1	0	across	['Protagonist of the "Twilight" books', '?????']	['BELLA']	
+3	0	across	['Have another go at', '?????']	['RETRY']	
+4	0	across	['Judge to be', '????']	['DEEM']	
+1	0	down	['See 4-Down', '????']	['THEM']	
+0	4	down	['With 5-Down, 2017 film nominated for Best Picture', '????']	['LALA', 'ROBE']	
+0	2	down	['Upper echelon of the society', '?????']	['ELITE', 'EXECS', 'UPPER']	
+2	0	across	['Homer epic poem', '?????']	['ILIAD', 'CANTO', 'POEMS', 'EPICS', 'HOMER', 'NOYES']	
+0	1	down	['Super Smash Bros. ___ (hit video game)', '?????']	['BRAWL', 'GAMER', 'LUIGI', 'MARIO', 'MELEE', 'NOHIT', 'SUPER']	
+0	3	down	['Important thing to set for an early morning flight', '?????']	[]	

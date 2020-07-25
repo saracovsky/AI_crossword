@@ -1,0 +1,13 @@
+----------------------------------------------------
+i	j	A/D		[clue, pattern]				answers
+----------------------------------------------------
+0	3	down	['In the upper echelon', '?????']	['ONTOP']	
+2	4	down	['Highest point value for a Scrabble tile', '???']	['TEN']	
+1	0	across	['Object of adoration', '????']	['ICON', 'IDOL']	
+2	0	across	['Tempus ___ (Latin for "time flies")', '?????']	['FUGIT', 'NIGHT']	
+4	1	across	['Typical Instagram user', '????']	['TEEN', 'USER']	
+0	1	down	['Field trip chaperone', '?????']	['ERROR', 'FIELD', 'STRIP', 'TRIPS']	
+0	2	down	['Major fashion magazine', '?????']	['ELLES', 'DONTS', 'GUCCI', 'MARIE', 'NYLON', 'TREND', 'VOGUE']	
+0	0	across	['Donated', '????']	['GAVE', 'ADAM', 'ALMS', 'BONO', 'GIED', 'KROC', 'LENT', 'VEIN']	
+3	1	across	['Pear-shaped string instrument', '????']	['LUTE', 'HARP', 'KOTO', 'VIOL', 'LYRE', 'CHIN', 'ARCO', 'ARPA', 'ASOR', 'FRET', 'LYRA', 'ROTE', 'UKES']	
+0	0	down	["Whether it's pronounced with a hard or soft G is much debated", '???']	[]	
